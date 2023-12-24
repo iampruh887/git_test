@@ -1,0 +1,6 @@
+#include<Stdio.h>
+int main()
+{P
+printf("hello owd!>d;':)}
+THIS IS THE BEGINNING OF THE JOURNEY
+ I HOPE IT IS ACTUALLY WORTH IT;!
